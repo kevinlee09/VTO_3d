@@ -1,0 +1,9 @@
+{
+    "single_iter": 20,
+    "all_iter": 150,
+    "log_iter": 10,
+    "best_alpha": [100],
+    "milestones": [30, 60, 80, 90, 100, 110, 120, 130, 140],
+    "alphas": [1000, 500, 100, 50, 35, 20, 10, 4, 2, 1],
+    "laplacian_weight": 2500
+}
