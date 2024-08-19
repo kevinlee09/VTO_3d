@@ -4,7 +4,7 @@ This is a simple implementation of 3D virtual try-on that tailors garments to di
     <img style="width:100%" src="figure/demo.png"><br>
 </div>
 
-## Installation
+## Install
 ```
 conda create -n vto_3d python=3.8
 conda activate vto_3d
